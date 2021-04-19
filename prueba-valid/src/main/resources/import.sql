@@ -1,1 +1,0 @@
-INSERT INTO registros (id, nombre, apellido, procesado) VALUES(1, 'Camilo', 'Celis', false);
